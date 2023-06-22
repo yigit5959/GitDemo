@@ -30,6 +30,9 @@ import static io.restassured.RestAssured.replaceFiltersWith;
 
 
 public class HardCodedExamples {
+      String x="a";
+      String y="b";
+
 
          String baseURI= RestAssured.baseURI= "http://hrm.syntaxtechs.net/syntaxapi/api";
 
@@ -37,6 +40,7 @@ public class HardCodedExamples {
 
 
     static String employee_id;
+
 
 
    @Test
