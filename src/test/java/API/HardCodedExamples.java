@@ -31,6 +31,11 @@ import static io.restassured.RestAssured.replaceFiltersWith;
 
 public class HardCodedExamples {
 
+   String sd="kapakli";
+   String nb="yenikoy";
+
+
+
      String j="Tekirdag";
      String t="Buyukyoncali";
 
