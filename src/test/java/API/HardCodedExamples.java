@@ -30,6 +30,12 @@ import static io.restassured.RestAssured.replaceFiltersWith;
 
 
 public class HardCodedExamples {
+
+     String j="Tekirdag";
+     String t="Buyukyoncali";
+
+     
+
       int b=50;
       int c=55;
       int o=96;
